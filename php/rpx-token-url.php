@@ -6,7 +6,7 @@ ob_start();
 */
 
 //For a production script it would be better to include the apiKey in from a file outside the web root to enhance security.
-$rpx_api_key = 'pbcnfgmpenepbfmkfldo';
+$rpx_api_key = '8cacc260f0a97f7954eca4e30f182ec66ec5de16';
 
 /*
  Set this to true if your application is Pro or Enterprise.
